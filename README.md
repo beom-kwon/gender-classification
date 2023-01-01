@@ -49,7 +49,7 @@ To find the optimal hyperparameter configuration for each model, we performed hy
 
 For example, if you execute the first m file above, you can obtain the trained KNN model.
 
-NOTE) If you want to evaluate our trained models, you can skip the hyperparameter optimization. In the "trained_model" folder, we provide our trained models.
+NOTE) The hyperparameter optimization is time-consuming. So, if you want to skip it, simply download and use our pre-trained models from [here](https://drive.google.com/file/d/11X_iL6hvS8fUtrrFFedLEoiMSE_8gAWK/view?usp=sharing). In the "trained_model" folder, we provide the pre-trained models.
 
 ## 6. Performance Evaluation
 
