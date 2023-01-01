@@ -77,7 +77,7 @@ Please cite this paper in your publications if it helps your research.
   publisher={IEEE}
 }
 ```
-Paper Link:
+Paper link:
 * [Joint Swing Energy for Skeleton-Based Gender Classification](https://doi.org/10.1109/ACCESS.2021.3058745)
 
 # License
