@@ -17,7 +17,7 @@ if ~exist(output_path, 'dir')
 end
 
 input_file1 = strcat(pwd,dataset_name,'\lopo cv dataset\lopo_dataset.mat');
-input_file2 = strcat(pwd,dataset_name,'\trained_model\fitcknn_JSE_test.mat');
+input_file2 = strcat(pwd,dataset_name,'\trained_model\fitcknn_JSE.mat');
 output_file = strcat(output_path,'results_fitcknn_JSE.mat');
 
 load(input_file1); % LOPO
