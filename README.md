@@ -68,13 +68,13 @@ Please cite this paper in your publications if it helps your research.
 
 ```
 @article{kwon2021joint,
-  title={Joint swing energy for skeleton-based gender classification},
   author={Kwon, Beom and Lee, Sanghoon},
   journal={IEEE Access},
-  volume={9},
-  pages={28334--28348},
+  title={Joint Swing Energy for Skeleton-Based Gender Classification},  
   year={2021},
-  publisher={IEEE}
+  volume={9},
+  pages={28334-28348},  
+  doi={10.1109/ACCESS.2021.3058745}
 }
 ```
 Paper link:
