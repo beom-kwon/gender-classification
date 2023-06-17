@@ -7,8 +7,7 @@
 
 # Introduction
 
-In this web page, we provide the MATLAB implementation of the gender classification method proposed in our paper '
-[Joint Swing Energy for Skeleton-Based Gender Classification](https://doi.org/10.1109/ACCESS.2021.3058745).' In this study, we proposed a new gait feature called joint swing energy (JSE) for gender classification. To demonstrate the effectiveness of JSE for gender classification, we trained four machine learning algorithms: k-nearest neighbors (KNN), Naive Bayes (NB), Support Vector Machine (SVM), and decision tree (DT) models using JSE. Additionally, we evaluated the models on four publicly available gait datasets.
+In this web page, we provide the MATLAB implementation of the gender classification method proposed in our paper '[Joint Swing Energy for Skeleton-Based Gender Classification](https://doi.org/10.1109/ACCESS.2021.3058745).' In this study, we proposed a new gait feature called joint swing energy (JSE) for gender classification. To demonstrate the effectiveness of JSE for gender classification, we trained four machine learning algorithms: k-nearest neighbors (KNN), Naive Bayes (NB), Support Vector Machine (SVM), and decision tree (DT) models using JSE. Additionally, we evaluated the models on four publicly available gait datasets.
 
 # Requirements
 
