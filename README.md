@@ -13,7 +13,7 @@ In this web page, we provide the MATLAB implementation of the gender classificat
 
 The proposed method was implemented using MATLAB R2018a. For the implementation of the four machine learning algorithms (KNN, NB, SVM, and DT), we utilized the MATLAB functions 'fitcknn,' 'fitcnb,' 'fitcsvm,' and 'fitctree,' respectively. To accomplish this, the 'Statistics and Machine Learning Toolbox' was employed. Therefore, to run our code, you will need to install MATLAB on your computer, along with the 'Statistics and Machine Learning Toolbox.'
 
-# How to run
+# How to Run
 
 ## 1. Dataset Preparation
 
