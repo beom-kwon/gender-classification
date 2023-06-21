@@ -1,7 +1,7 @@
 # Contents
 1. [Introduction](#introduction)
 2. [Requirements](#requirements)
-3. [How to run](#how-to-run)
+3. [How to Run](#how-to-run)
 4. [Citation](#citation)
 5. [License](#license)
 
@@ -34,7 +34,7 @@ The skeleton sequences in Dataset A are stored as text files with the filename e
 
 Please execute the script named 'step2_JSE_feature_extraction.m.' After running the .m file, you will obtain the JSE feature vectors.
 
-## 4. Leave-one-participant-out (LOPO) Cross-Validation
+## 4. Leave-One-Participant-Out (LOPO) Cross-Validation
 
 To assess the performance of the proposed gender classification method, we utilized leave-one-participant-out (LOPO) cross-validation. Please execute the script named 'step3_LOPO_CV_dataset_generation.m.' After running the .m file, you will obtain the training and testing datasets used in each cross-validation fold.
 
